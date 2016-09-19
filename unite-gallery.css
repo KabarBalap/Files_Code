@@ -1026,7 +1026,7 @@ img.ug-sepia-effect{
 
 .ug-button-play.ug-skin-default{
 	position:absolute;
-	background-image:url('http://unitegallery.net/unitegallery/themes/default/images/button_playpause.png');
+	background-image:url('http://unitegallery.net/unitegallery/skins/default/button_playpause.png');
     width:14px;
     height:17px;
     cursor:pointer;
@@ -1049,7 +1049,7 @@ img.ug-sepia-effect{
 
 .ug-button-fullscreen.ug-skin-default{
 	position:absolute;
-	background-image:url('http://unitegallery.net/unitegallery/themes/default/images/button_fullscreen.png');
+	background-image:url('http://unitegallery.net/unitegallery/skins/default/button_fullscreen.png');
     width:16px;
     height:16px;
     cursor:pointer;
@@ -1115,7 +1115,7 @@ img.ug-sepia-effect{
 	width:30px;
 	height:15px;
 	background-position:0px 0px;	
-	background-image:url('http://unitegallery.net/unitegallery/themes/default/images/arrow_down_up.png');
+	background-image:url('http://unitegallery.net/unitegallery/skins/default/arrow_grid_down.png');
 }
 
 .ug-gallery-wrapper .ug-grid-panel .grid-arrow-down.ug-skin-default.ug-button-hover{
@@ -1134,7 +1134,7 @@ img.ug-sepia-effect{
 	width:30px;
 	height:15px;
 	background-position:0px 0px;	
-	background-image:url('http://unitegallery.net/unitegallery/themes/default/images/arrow_down_up.png');
+	background-image:url('http://unitegallery.net/unitegallery/skins/default/arrow_grid_up.png');
 }
 
 .ug-gallery-wrapper .ug-grid-panel .grid-arrow-up.ug-skin-default.ug-button-hover{
@@ -1152,7 +1152,7 @@ img.ug-sepia-effect{
 	width:40px;
 	height:40px;
 	background-position:0px -40px;
-	background-image:url('http://unitegallery.net/unitegallery/skins/default/arrows_strip_left.png');
+	background-image:url('http://unitegallery.net/unitegallery/skins/default/grid_arrow_left.png');
 }
 
 .ug-gallery-wrapper .ug-grid-panel .grid-arrow-left.ug-skin-default.ug-button-hover{
@@ -1170,7 +1170,7 @@ img.ug-sepia-effect{
 	width:40px;
 	height:40px;
 	background-position:0px -40px;	
-	background-image:url('http://unitegallery.net/unitegallery/skins/default/arrows_strip_right.png');
+	background-image:url('http://unitegallery.net/unitegallery/skins/default/grid_arrow_right.png');
 }
 
 .ug-gallery-wrapper .ug-grid-panel .grid-arrow-right.ug-skin-default.ug-button-hover{
@@ -1269,11 +1269,11 @@ img.ug-sepia-effect{
 }
 
 .ug-strip-panel .ug-strip-arrow-up.ug-skin-default .ug-strip-arrow-tip{
-	background-image:url('http://unitegallery.net/unitegallery/themes/default/images/arrow_down_up.png');
+	background-image:url('http://unitegallery.net/unitegallery/skins/default/arrows_strip_up.png');
 }
 
 .ug-strip-panel .ug-strip-arrow-down.ug-skin-default .ug-strip-arrow-tip{
-	background-image:url('http://unitegallery.net/unitegallery/themes/default/images/arrow_down_up.png');	
+	background-image:url('http://unitegallery.net/unitegallery/skins/default/arrows_strip_down.png');	
 }
 
 .ug-strip-panel .ug-strip-arrow-up.ug-skin-default.ug-button-hover .ug-strip-arrow-tip,
